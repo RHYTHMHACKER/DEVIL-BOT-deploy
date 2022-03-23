@@ -1,15 +1,15 @@
 {
-    "name": "Raganork",
-    "description": "Raganork bot - Extra featured, fully customisable WhatsApp Public/User bot.",
-    "logo": "https://www.linkpicture.com/q/rgnk.jpg",
-    "keywords": ["WhatsApp", "Userbot", "Raganork", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/souravkl11/Raganork",
-    "website":   "https://bit.ly/Raganork",
-    "success_url": "https://bit.ly/Raganork",
+    "name": "DEVIL-BOT",
+    "description": "DEVIL-BOT - Extra featured, fully customisable WhatsApp Public/User bot.",
+    "logo": "https://www.linkpicture.com/q/IMG-20211010-WA0512.jpg",
+    "keywords": ["WhatsApp", "Userbot", "DEVIL-BOT", "WhatsAsena", "bot", "api", "ai"],
+    "repository": "https://github.com/RHYTHMHACKER/DEVIL-BOT",
+    "website":   "https://nsprogamersyt.blogspot.com/2021/12/nsprogamersyt.html",
+    "success_url": "https://youtube.com/channel/UCZHaGrhwyEBM2NhIYT1FFww",
     "stack": "container",
     "env": {
-        "RAGANORK_CODE": {
-            "description": "Raganork code (QR scan cheythappo kittiya code). Type here yours Raganork code.",
+        "DEVIL_CODE": {
+            "description": "Raganork code (QR scan cheythappo kittiya code). Type here yours DEVIL-BOT code.",
             "required": true
         },
        "C_CODE": {
@@ -78,7 +78,7 @@
         "BLOCK_CHAT": {
             "description": "Choose in which chat the bot won't work there. Ex: 91xxxx && 91xxxx-1xxx or 91xxxxx,91xxxx...",
             "required": false,
-            "value": "919074309534"
+            "value": "918547800428"
         },
         "WORK_TYPE": {
             "description": "Raganork bot Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
@@ -121,7 +121,7 @@
         "ALL_NUMBER": {
             "description": "Type your number here",
             "required": false,
-            "value": "wa.me/919074309534"
+            "value": "wa.me/918547800428"
         },
         "V_HEADER": {
             "description": "Shows on top of verified tick. Type any words here.",
@@ -146,7 +146,7 @@
         "TAG_HEADER": {
             "description": "Owner name used in many commands! Type your name here.",
             "required": false,
-            "value": "*Hey*"
+            "value": "*DEVIL BOT BY NSproYT IS ACTIVE*"
         },   
         "FIND_KEY": {
             "description": "API key for .find command. Get it from https://dashboard.audd.io/",
@@ -156,12 +156,12 @@
         "TAKE_KEY": {
             "description": "API key for .take command. Get it from https://api.imgbb.com/",
             "required": false,    
-            "value": "916282344739@s.whatsapp.net"
+            "value": "919061657045@s.whatsapp.net"
         },
         "STICKER_DATA": {
             "description": "Sticker packname changer. Give any text here",
             "required": false,    
-            "value": "Raganork|Souravkl11"
+            "value": "DEVIL-BOT/nsproSticker"
         },
         "REMOVE_FILTER": {
             "description": "By using these words on .antiword enabled groups, user will be kicked!",
@@ -171,17 +171,17 @@
         "AUDIO_DATA": {
             "description": "Name and image for audio name changing feature. Give Title;artist;thumbnailurl format",
             "required": false,    
-            "value": "Generated using ʀᴀɢᷨᴀͦɴͭᴏʀᴋ;sᴏᴜʀᴀᴠᴋʟ¹¹;https://www.linkpicture.com/q/rgnk.jpg"
+            "value": "Generated using ɴꜱᴩʀᴏɢᴀᴍᴇʀꜱ Ɗᴇͥᴠɪͣʟͫ-ʙᴏᴛ➤"https://www.linkpicture.com/q/IMG-20211010-WA0512.jpg"
         },
         "GROUP_LINK": {
             "description": "Official group link of your bot.",
             "required": true,    
-            "value": "https://chat.whatsapp.com/Dt3C4wrQmt0GG6io1IBIHb"
+            "value": "https://chat.whatsapp.com/KwstIqsJBbE0s7xGcAD7P2"
         },
         "BOT_NAME": {
             "description": "Your bot's name. This is very important!",
             "required": true,
-            "value": "Bot name"
+            "value": "ɴꜱᴩʀᴏɢᴀᴍᴇʀꜱ Ɗᴇͥᴠɪͣʟͫ-ʙᴏᴛ➤/Type Bot Name"
              
         }
     },
