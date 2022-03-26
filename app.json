@@ -171,7 +171,7 @@
         "AUDIO_DATA": {
             "description": "Name and image for audio name changing feature. Give Title;artist;thumbnailurl format",
             "required": false,    
-            "value": "Generated using ɴꜱᴩʀᴏɢᴀᴍᴇʀꜱ Ɗᴇͥᴠɪͣʟͫ-ʙᴏᴛ➤"https://www.linkpicture.com/q/IMG-20211010-WA0512.jpg"
+            "value": "Generated using ɴꜱᴩʀᴏɢᴀᴍᴇʀꜱ Ɗᴇͥᴠɪͣʟͫ-ʙᴏᴛ➤"
         },
         "GROUP_LINK": {
             "description": "Official group link of your bot.",
